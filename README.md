@@ -1,7 +1,7 @@
 ## ✨About me:
 🎓 Data Theory student @ UCLA<br>
 👩🏽‍💻 Intern @<br>
-🔭 Looking to find a career in Data Science<br>
+🔭 Looking to find a career in Machine Learning<br>
 ✉️ How to reach me: mfa13@ucla.edu<br>
 🌱Fun fact: I love to paint 
 

@@ -29,10 +29,10 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mehwishahmed&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=mehwishahmed&theme=radical)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=mehwishahmed&theme=radical)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=react-dark)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=mehwishahmed&theme=react-dark)

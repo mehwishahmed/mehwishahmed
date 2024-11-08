@@ -2,7 +2,6 @@
 
 
 ## 🛠️ Tech Stack
-
 <StackIcon name="python" />
 
 <!--

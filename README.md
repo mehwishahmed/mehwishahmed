@@ -34,5 +34,3 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=mehwishahmed&theme=radical)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=mehwishahmed&theme=radical)
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=mehwishahmed&theme=react-dark)

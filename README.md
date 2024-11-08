@@ -1,4 +1,11 @@
-## ✨About me
+
+## Summary
+A dedicated undergraduate pursuing a degree in Data Theory at UCLA, with a focus on machine learning and artificial intelligence.
+Academic and practical experiences equipped with profound knowledge in mathematical modeling. statistics, data analysis, and
+strong coding skills in Python and R. Goal is to leverage mathematical expertise and coding proficiency to tackle complex data
+challenges and contribute to the cutting-edge world of Al.
+
+## 🚀About me
 🎓 Data Theory student @ UCLA<br>
 👩🏽‍💻 Intern @<br>
 🔭 Looking to find a career in Machine Learning<br>

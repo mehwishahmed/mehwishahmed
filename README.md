@@ -23,7 +23,27 @@
 
 ## 💻 My Projects
 
+### 🧠 Data Science and Machine Learning
+- **[Twitter Sentiment Analysis](https://github.com/your-username/twitter-sentiment-analysis)**  
+  Sentiment analysis model using Python, Pandas, and scikit-learn to classify tweets as positive, negative, or neutral.
 
+- **[Sports Outcome Predictor](https://github.com/your-username/sports-outcome-predictor)**  
+  Predicts sports game outcomes based on team and player stats using machine learning models in PyTorch.
+
+### ☁️ Cloud and Backend Projects
+- **[Real Estate Price Tracker](https://github.com/your-username/real-estate-price-tracker)**  
+  Monitors and analyzes real estate prices using Python, MySQL, and visualizes trends with Matplotlib.
+
+- **[Personal Finance Optimizer](https://github.com/your-username/personal-finance-optimizer)**  
+  A financial tool to track expenses, optimize spending, and suggest saving strategies, built with Python and SQL.
+
+### 🎮 Game Development
+- **[Chutes and Ladders Simulation](https://github.com/your-username/chutes-and-ladders)**  
+  Simulates a Chutes and Ladders game in R, complete with board setup and analysis.
+
+### 📈 Visualizations
+- **[Spending Pattern Visualizer](https://github.com/your-username/spending-visualizer)**  
+  Uses Matplotlib and Pandas to visualize spending patterns and financial data trends.
 
 
 ## 📊 GitHub Stats

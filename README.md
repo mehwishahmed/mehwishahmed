@@ -23,3 +23,16 @@
 
 
 ## 💻 My Projects
+
+
+
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical)
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=react-dark)

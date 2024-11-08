@@ -13,7 +13,7 @@ challenges and contribute to the cutting-edge world of Al.
 🌱Fun fact: I love to paint
 
 
-## ⚡️Tech Stack
+## 💻Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -28,7 +28,7 @@ challenges and contribute to the cutting-edge world of Al.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## 💻 My Projects
+## 🗂️ My Projects
 
 👨🏻‍💼[Career Path Generator](https://github.com/mehwishahmed/careerpathgenerator)<br>
 🐍[Python Project Generator](https://github.com/mehwishahmed/YouTube-GPT-Generator)<br>

@@ -1,9 +1,14 @@
-## Hi there 👋
+## Hi there! 👋
+
+### 👀 I’m interested in Product Management
+🌱 I’m currently learning UCLA
+💞️ I’m looking to collaborate on any projects
+📫 How to reach me tamv04@g.ucla.edu
+😄 Pronouns: she/her/hers
+⚡ Fun fact: I play badminton and I am a foodie
 
 
-## 🛠️ Tech Stack
-## 🛠️ Tech Stack
-
+## 🖥️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)

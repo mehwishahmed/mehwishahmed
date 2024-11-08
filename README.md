@@ -35,7 +35,7 @@
 
 
 ## 👥 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/mehwish-ahmed-8a4363332/)
-[GitHub](https://github.com/mehwishahmed)
-[Kaggle](https://www.kaggle.com/mehwisha13)
+[LinkedIn](https://www.linkedin.com/in/mehwish-ahmed-8a4363332/)<br>
+[GitHub](https://github.com/mehwishahmed)<br>
+[Kaggle](https://www.kaggle.com/mehwisha13)<br>
 Email: mfa13@ucla.edu

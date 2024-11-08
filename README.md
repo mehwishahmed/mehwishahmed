@@ -2,7 +2,7 @@
 🎓 Data Theory student @ UCLA<br>
 👩🏽‍💻 Intern @<br>
 🔭 Looking to find a career in Machine Learning<br>
-💬 Ask me about my projects!
+💬 Ask me about my projects!<br>
 🌱Fun fact: I love to paint
 
 

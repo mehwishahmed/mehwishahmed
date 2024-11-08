@@ -30,7 +30,12 @@
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mehwishahmed&show_icons=true&theme=radical)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=mehwishahmed&theme=radical)
-
 ![Trophies](https://github-profile-trophy.vercel.app/?username=mehwishahmed&theme=radical)
+
+
+## 👥 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/mehwish-ahmed-8a4363332/)
+[GitHub](https://github.com/mehwishahmed)
+[Kaggle](https://www.kaggle.com/mehwisha13)
+Email: mfa13@ucla.edu

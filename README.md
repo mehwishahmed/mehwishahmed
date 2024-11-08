@@ -23,9 +23,7 @@
 
 ## 💻 My Projects
 
-### 🧠 Data Science and Machine Learning
-- **[Twitter Sentiment Analysis](https://github.com/your-username/twitter-sentiment-analysis)**  
-  Sentiment analysis model using Python, Pandas, and scikit-learn to classify tweets as positive, negative, or neutral.
+### [🐥Twitter Sentiment Analysis](https://github.com/your-username/twitter-sentiment-analysis)
 
 - **[Sports Outcome Predictor](https://github.com/your-username/sports-outcome-predictor)**  
   Predicts sports game outcomes based on team and player stats using machine learning models in PyTorch.

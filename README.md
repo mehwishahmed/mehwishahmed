@@ -12,6 +12,12 @@ challenges and contribute to the cutting-edge world of Al.
 💬 Ask me about my projects!<br>
 🌱Fun fact: I love to paint
 
+## 👥 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/mehwish-ahmed-8a4363332/)<br>
+[GitHub](https://github.com/mehwishahmed)<br>
+[Kaggle](https://www.kaggle.com/mehwisha13)<br>
+[Email](mailto:mfa13@ucla.edu)
+
 
 ## 💻Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -45,10 +51,3 @@ challenges and contribute to the cutting-edge world of Al.
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mehwishahmed&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=mehwishahmed&theme=radical)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=mehwishahmed&theme=radical)
-
-
-## 👥 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/mehwish-ahmed-8a4363332/)<br>
-[GitHub](https://github.com/mehwishahmed)<br>
-[Kaggle](https://www.kaggle.com/mehwisha13)<br>
-[Email](mailto:mfa13@ucla.edu)

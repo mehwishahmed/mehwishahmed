@@ -1,4 +1,4 @@
-## ✨About me:
+## ✨About me
 🎓 Data Theory student @ UCLA<br>
 👩🏽‍💻 Intern @<br>
 🔭 Looking to find a career in Machine Learning<br>

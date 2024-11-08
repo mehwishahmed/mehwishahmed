@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-Data Theory student @ UCLA
+#### Data Theory student @ UCLA
 Intern @ 
 Looking to find a career in Data Science
 How to reach me: mfa13@ucla.edu

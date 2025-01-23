@@ -44,7 +44,7 @@ challenges and contribute to the cutting-edge world of Al.
 
 
 ## 🏆Kaggle Competitions
-📦[Amazon Sales Prediction Competition](https://github.com/andywang0321/Amazon_Sales_Prediction)<br>
+📦[Amazon Sales Prediction Competition](https://github.com/mehwishahmed/Amazon_Sales_Prediction)<br>
 
 ## 📊 GitHub Stats
 

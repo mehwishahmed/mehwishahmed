@@ -7,7 +7,7 @@ challenges and contribute to the cutting-edge world of Al.
 
 ## 🚀About me
 🎓 Data Theory student @ UCLA<br>
-👩🏽‍💻 Intern @<br>
+👩🏽‍💻 Intern @ Hifinite Health<br>
 🔭 Looking to find a career in Machine Learning<br>
 💬 Ask me about my projects!<br>
 🌱Fun fact: I love to paint

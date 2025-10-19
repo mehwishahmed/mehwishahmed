@@ -45,9 +45,3 @@ challenges and contribute to the cutting-edge world of Al.
 
 ## 🏆Kaggle Competitions
 📦[Amazon Sales Prediction Competition](https://github.com/mehwishahmed/Amazon_Sales_Prediction)<br>
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mehwishahmed&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=mehwishahmed&theme=radical)
-![Trophies](https://github-profile-trophy.vercel.app/?username=mehwishahmed&theme=radical)

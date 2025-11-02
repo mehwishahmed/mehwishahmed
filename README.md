@@ -36,11 +36,11 @@ challenges and contribute to the cutting-edge world of Al.
 
 ## 🗂️ My Projects
 
-👨🏻‍💼[Career Path Generator](https://github.com/mehwishahmed/careerpathgenerator)<br>
-🐍[Python Project Generator](https://github.com/mehwishahmed/YouTube-GPT-Generator)<br>
-🐥[Twitter Sentiment Analysis](https://github.com/mehwishahmed/Twitter-Sentimental-Analysis)<br>
-🏦[Personal Finance Optimizer](https://github.com/mehwishahmed/personalfinanceoptimizer)<br>
-🧠[Financial Intelligence System]()<br>
+👨🏻‍💼[Career Path Generator (2022)](https://github.com/mehwishahmed/careerpathgenerator)<br>
+🐍[Python Project Generator (2023)](https://github.com/mehwishahmed/YouTube-GPT-Generator)<br>
+🐥[Twitter Sentiment Analysis (2023)](https://github.com/mehwishahmed/Twitter-Sentimental-Analysis)<br>
+🏦[Personal Finance Optimizer (2024)](https://github.com/mehwishahmed/personalfinanceoptimizer)<br>
+🧠[Financial Intelligence System (2025)]()<br>
 
 
 ## 🏆Kaggle Competitions

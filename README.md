@@ -8,9 +8,9 @@ challenges and contribute to the cutting-edge world of Al.
 ## 🚀About me
 🎓 Data Theory student @ UCLA<br>
 👩🏽‍💻 Intern @ Hifinite Health<br>
-🔭 Looking to find a career in Machine Learning<br>
+🔭 Looking to find a career in Machine Learning, Data Science, or Data Engineering<br>
 💬 Ask me about my projects!<br>
-🌱Fun fact: I love to paint
+🌱Fun fact: I love to paint and bake :)
 
 ## 👥 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/mehwish-ahmed-8a4363332/)<br>

@@ -13,7 +13,7 @@ challenges and contribute to the cutting-edge world of Al.
 🌱Fun fact: I love to paint and bake :)
 
 ## 👥 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/mehwish-ahmed-8a4363332/)<br>
+[LinkedIn](https://www.linkedin.com/in/mehwishahmed113/)<br>
 [GitHub](https://github.com/mehwishahmed)<br>
 [Kaggle](https://www.kaggle.com/mehwisha13)<br>
 [Email](mailto:mfa13@ucla.edu)

@@ -3,14 +3,14 @@
 A dedicated undergraduate pursuing a degree in Data Theory at UCLA, with a focus on machine learning and artificial intelligence.
 Academic and practical experiences equipped with profound knowledge in mathematical modeling. statistics, data analysis, and
 strong coding skills in Python and R. Goal is to leverage mathematical expertise and coding proficiency to tackle complex data
-challenges and contribute to the cutting-edge world of Al.
+challenges and contribute to the cutting-edge world of AI and finance.
 
 ## 🚀About me
-🎓 Data Theory student @ UCLA<br>
-👩🏽‍💻 Intern @ Hifinite Health<br>
-🔭 Looking to find a career in Machine Learning, Data Science, or Data Engineering<br>
+🎓 Data Theory undergraduate @ UCLA<br>
+👩🏽‍💻 Former Intern @ Hifinite Health<br>
+🔭 Exploring careers in Machine Learning, Quantitative Finance, or Data Engineering<br>
 💬 Ask me about my projects!<br>
-🌱Fun fact: I love to paint and bake :)
+🌱Fun fact: I love to bake :)
 
 ## 👥 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/mehwishahmed113/)<br>
@@ -36,14 +36,15 @@ challenges and contribute to the cutting-edge world of Al.
 
 ## 🗂️ My Projects
 
-🐍[RentvsBuy.ai (2025)](https://github.com/mehwishahmed/YouTube-GPT-Generator)<br>
-🐍[Hifinite Health (2025)](https://github.com/mehwishahmed/YouTube-GPT-Generator)<br>
-🐍[Finance Time Series Anomaly Detection (2024-25)](https://github.com/mehwishahmed/YouTube-GPT-Generator)<br>
-🐍[Financial Intelligence System (2024)](https://github.com/mehwishahmed/YouTube-GPT-Generator)<br>
-👨🏻‍💼[Career Path Generator (2022)](https://github.com/mehwishahmed/careerpathgenerator)<br>
-🐍[Python Project Generator (2023)](https://github.com/mehwishahmed/YouTube-GPT-Generator)<br>
-🐥[Twitter Sentiment Analysis (2023)](https://github.com/mehwishahmed/Twitter-Sentimental-Analysis)<br>
+💸[RentvsBuy.ai (2025)](https://github.com/mehwishahmed/rentvsbuy-ai)<br>
+🏥[Hifinite Health (2025)](https://github.com/mehwishahmed/hifinitehealth)<br>
+📈[Finance Time Series Anomaly Detection (2024-25)](https://github.com/mehwishahmed/timeseries)<br>
+💰[Financial Intelligence System (2024)](https://github.com/mehwishahmed/llamaintelligence)<br>
 🏦[Personal Finance Optimizer (2024)](https://github.com/mehwishahmed/personalfinanceoptimizer)<br>
+🖼️[GAN Image Generator (2023)](https://github.com/mehwishahmed/GAN-Generated-Images)<br>
+🐤[Twitter Sentiment Analysis (2023)](https://github.com/mehwishahmed/Twitter-Sentimental-Analysis)<br>
+🪄[Python Project Generator (2023)](https://github.com/mehwishahmed/YouTube-GPT-Generator)<br>
+
 
 
 ## 🏆Kaggle Competitions

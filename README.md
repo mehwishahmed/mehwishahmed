@@ -36,11 +36,14 @@ challenges and contribute to the cutting-edge world of Al.
 
 ## 🗂️ My Projects
 
+🐍[RentvsBuy.ai (2025)](https://github.com/mehwishahmed/YouTube-GPT-Generator)<br>
+🐍[Hifinite Health (2025)](https://github.com/mehwishahmed/YouTube-GPT-Generator)<br>
+🐍[Finance Time Series Anomaly Detection (2024-25)](https://github.com/mehwishahmed/YouTube-GPT-Generator)<br>
+🐍[Financial Intelligence System (2024)](https://github.com/mehwishahmed/YouTube-GPT-Generator)<br>
 👨🏻‍💼[Career Path Generator (2022)](https://github.com/mehwishahmed/careerpathgenerator)<br>
 🐍[Python Project Generator (2023)](https://github.com/mehwishahmed/YouTube-GPT-Generator)<br>
 🐥[Twitter Sentiment Analysis (2023)](https://github.com/mehwishahmed/Twitter-Sentimental-Analysis)<br>
 🏦[Personal Finance Optimizer (2024)](https://github.com/mehwishahmed/personalfinanceoptimizer)<br>
-🧠[Financial Intelligence System (2025)]()<br>
 
 
 ## 🏆Kaggle Competitions

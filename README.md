@@ -34,8 +34,12 @@ challenges and contribute to the cutting-edge world of AI and finance.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## 🗂️ My Projects
+## 🌟 Recent Project
+[RentvsBuy.ai](http://www.rentvsbuy.ai)<br>
 
+
+
+## 🗂️ Project Repositories
 💸[RentvsBuy.ai (2025)](https://github.com/mehwishahmed/rentvsbuy-ai)<br>
 🏥[Hifinite Health (2025)](https://github.com/mehwishahmed/hifinitehealth)<br>
 📈[Finance Time Series Anomaly Detection (2024-25)](https://github.com/mehwishahmed/timeseries)<br>

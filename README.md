@@ -1,55 +1,44 @@
 
-## ✨Summary
-A dedicated undergraduate pursuing a degree in Data Theory at UCLA, with a focus on machine learning and artificial intelligence.
-Academic and practical experiences equipped with profound knowledge in mathematical modeling. statistics, data analysis, and
-strong coding skills in Python and R. Goal is to leverage mathematical expertise and coding proficiency to tackle complex data
-challenges and contribute to the cutting-edge world of AI and finance.
+## ✨ Summary
+UCLA Data Theory graduate building production ML and GenAI systems. 
+Incoming MS student at Northwestern MLDS (Fall 2026), focused on 
+GenAI engineering and ML systems for finance and tech.
 
-## 🚀About me
-🎓 Data Theory undergraduate @ UCLA<br>
-👩🏽‍💻 Former Intern @ Hifinite Health<br>
-🔭 Exploring careers in Machine Learning, Quantitative Finance, or Data Engineering<br>
-💬 Ask me about my projects!<br>
-🌱Fun fact: I love to bake :)
+## 🚀 About me
+🎓 B.S. Data Theory @ UCLA | Incoming MS @ Northwestern MLDS<br>
+👩🏽‍💻 ML Engineer — OCR pipelines & patient risk models @ Hifinitie Health<br>
+🔭 Building GenAI and ML systems for finance applications<br>
+💬 Ask me about RentVsBuy.ai!<br>
+🌱 Fun fact: I love to bake :)
 
 ## 👥 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/mehwishahmed113/)<br>
+[LinkedIn](https://www.linkedin.com/in/mehwish-ahmed1)<br>
 [GitHub](https://github.com/mehwishahmed)<br>
 [Kaggle](https://www.kaggle.com/mehwisha13)<br>
 [Email](mailto:mfa13@ucla.edu)
 
-
-## 💻Tech Stack
+## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)<br>
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yNTYgMGQzNzUuNjUgMCA1MTIgMTM2LjM1NCA1MTIgNTEyUzYzMS42NSA1MTIgMjU2IDUxMiAweiIgZmlsbD0iIzFmMmU1ZSIvPjwvc3ZnPg==&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)<br>
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)<br>
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)<br>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)<br>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)<br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ## 🌟 Recent Project
-[RentvsBuy.ai](http://www.rentvsbuy.ai)<br>
-
-
+[RentVsBuy.ai](https://rentvsbuy.ai) — AI-powered rent vs. buy financial decision tool
 
 ## 🗂️ Project Repositories
-💸[RentvsBuy.ai (2025)](https://github.com/mehwishahmed/rentvsbuy-ai)<br>
-🏥[Hifinite Health (2025)](https://github.com/mehwishahmed/hifinitehealth)<br>
-📈[Finance Time Series Anomaly Detection (2024-25)](https://github.com/mehwishahmed/timeseries)<br>
-💰[Financial Intelligence System (2024)](https://github.com/mehwishahmed/llamaintelligence)<br>
-🏦[Personal Finance Optimizer (2024)](https://github.com/mehwishahmed/personalfinanceoptimizer)<br>
-🖼️[GAN Image Generator (2023)](https://github.com/mehwishahmed/GAN-Generated-Images)<br>
-🐤[Twitter Sentiment Analysis (2023)](https://github.com/mehwishahmed/Twitter-Sentimental-Analysis)<br>
-🪄[Python Project Generator (2023)](https://github.com/mehwishahmed/YouTube-GPT-Generator)<br>
+💸 [RentVsBuy.ai (2025)](https://github.com/mehwishahmed/rentvsbuy-ai)<br>
+🏥 [Hifinitie Health ML (2025)](https://github.com/mehwishahmed/hifinitehealth)<br>
+📈 [Finance Time Series Anomaly Detection (2024-25)](https://github.com/mehwishahmed/timeseries)<br>
+💰 [Financial Intelligence System (2024)](https://github.com/mehwishahmed/llamaintelligence)<br>
+🏦 [Personal Finance Optimizer (2024)](https://github.com/mehwishahmed/personalfinanceoptimizer)<br>
+🖼️ [GAN Image Generator (2023)](https://github.com/mehwishahmed/GAN-Generated-Images)<br>
 
-
-
-## 🏆Kaggle Competitions
-📦[Amazon Sales Prediction Competition](https://github.com/mehwishahmed/Amazon_Sales_Prediction)<br>
+## 🏆 Kaggle Competitions
+📦 [Amazon Sales Prediction — 1st Place](https://github.com/mehwishahmed/Amazon_Sales_Prediction)<br>

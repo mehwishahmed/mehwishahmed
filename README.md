@@ -6,7 +6,7 @@ GenAI engineering and ML systems for finance and tech.
 
 ## 🚀 About me
 🎓 B.S. Data Theory @ UCLA | Incoming MS @ Northwestern MLDS<br>
-👩🏽‍💻 ML Engineer — OCR pipelines & patient risk models @ Hifinitie Health<br>
+👩🏽‍💻 ML Engineer —> OCR pipelines & patient risk models @ Hifinitie Health<br>
 🔭 Building GenAI and ML systems for finance applications<br>
 💬 Ask me about RentVsBuy.ai!<br>
 🌱 Fun fact: I love to bake :)

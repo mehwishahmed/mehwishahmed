@@ -1,6 +1,9 @@
 <div align="center">
 
-# Mehwish (May) Ahmed
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="Mehwish Ahmed" width="100%">
+</picture>
 
 **M.S. Machine Learning & Data Science** · Northwestern University · *expected Dec 2027*<br>
 **B.S. Data Theory** (Joint Mathematics & Statistics) · UCLA · *2025*
@@ -83,20 +86,20 @@ OCR pipeline for **10,000+** medical documents at **94%** extraction accuracy, a
 
 ## Tools
 
-![Python](https://img.shields.io/badge/Python-4A6380?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-4A6380?style=flat-square)
-![R](https://img.shields.io/badge/R-4A6380?style=flat-square)
-![pandas](https://img.shields.io/badge/pandas-4A6380?style=flat-square)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-4A6380?style=flat-square)
-![XGBoost](https://img.shields.io/badge/XGBoost-4A6380?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-4A6380?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4A6380?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4A6380?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-4A6380?style=flat-square)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-4A6380?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-4A6380?style=flat-square)
-![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-4A6380?style=flat-square)
-![Git](https://img.shields.io/badge/Git-4A6380?style=flat-square)
+![Python](https://img.shields.io/badge/Python-2F6FB0?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-2F6FB0?style=flat-square)
+![R](https://img.shields.io/badge/R-2F6FB0?style=flat-square)
+![pandas](https://img.shields.io/badge/pandas-7A4FBF?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-7A4FBF?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-7A4FBF?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-7A4FBF?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-7A4FBF?style=flat-square)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-7A4FBF?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-1F8A70?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F8A70?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-1F8A70?style=flat-square)
+![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-1F8A70?style=flat-square)
+![Git](https://img.shields.io/badge/Git-1F8A70?style=flat-square)
 
 ---
 
